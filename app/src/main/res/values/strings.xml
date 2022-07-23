@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">Notification with broadcast and start service using Pending Intent with Notification</string>
+</resources>
